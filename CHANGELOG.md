@@ -1,4 +1,9 @@
 # Cashew Android SDK
+## Version 2.3.2 (July 05, 2018)
+
+- Enabled Schedule Message option
+-Enabled support for multiple attachments
+-Various bug fixes and improvements
 
 ## Version 2.1.0 (June 29, 2017)
 
